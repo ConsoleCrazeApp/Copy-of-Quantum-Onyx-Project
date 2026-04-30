@@ -5,3 +5,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ConsoleCrazeApp/Copy-
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ConsoleCrazeApp/idk/refs/heads/main/idk.lua"))()
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ConsoleCrazeApp/Blox-fruit/refs/heads/main/Main.lua"))()
+
+https://raw.githubusercontent.com/ConsoleCrazeApp/Blox-fruit/refs/heads/main/Main.lua
